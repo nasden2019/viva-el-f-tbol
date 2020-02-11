@@ -1,0 +1,266 @@
+@media (max-width: 522px) {
+
+    // ocultar nav inicio 
+    .barra-sup {
+        display: none;
+    }
+
+    // imgs
+    .img-celu-inicio {
+        width: 17rem !important;
+        // margin-left: 3rem;
+    }
+
+    .img-multiplataforma {
+        width: 17rem;
+    }
+
+    .img-perfilequipos {
+        width: 19rem;
+    }
+
+    .tarjetas-perfilequipos {
+        display: none;
+    }
+
+    .img-celu-torneos {
+        display: none;
+        // width: 13rem !important;
+        // margin-left: 2rem !important;
+    }
+
+    .img-datosindividuales {
+        display: none;
+        // width: 17rem;
+    }
+
+    // Google Play e Ios
+    .googleplay {
+        margin-right: 1rem;
+        height: 2rem !important;
+    }
+
+    .ios {
+        height: 2rem !important;
+    }
+
+    .img-vivaelfutbol-footer {
+        margin-right: 1.2rem;
+    }
+
+    // bloque texto inicial 
+    .columna-primer-seccion {
+        margin-right: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    // titular-inicial
+    .titular-inicial {
+        margin-top: 1rem !important;
+    }
+
+    // Headings, Parrafos
+    .headings {
+        padding-bottom: 1.5rem;
+        font-weight: 700 !important;
+        font-size: 2.2rem !important;
+    }
+
+    .titulo-multiplataforma {
+        font-size: 1.8 !important;
+    }
+
+    .parrafos {
+        padding-bottom: 2rem;
+        font-size: 1rem !important;
+    }
+
+    // Padding-top Sections
+    .seccion {
+        padding-top: 2rem !important;
+    }
+
+    // Seccion Torneos (centrado y recortado margin-top)
+    // .iconos-torneos div {
+    //     display: inline !important;
+    //     overflow-x: scroll;
+    //     max-height: 25px;
+    // }
+
+    // .iconos-separacion {
+    //     margin-right: 0.5rem;
+    // }
+
+    // botones cards
+    .btn-card {
+        margin-bottom: 5px;
+    }
+
+    .btn-card1 {
+        margin-top: 10px;
+    }
+
+    // TORNEOS
+    .iconos-torneos {
+        display: none;
+    }
+
+    .torneos {
+        margin-top: 1rem;
+    }
+
+    .texto-torneos {
+        text-align: center;
+    }
+
+    // CAROUSEL
+    .carousel {
+        width: 17rem;
+        margin: auto;
+    }
+
+    .carousel-indicators {
+        margin-bottom: -15px;
+        background: lightgrey;
+    }
+
+    
+    // Carousel1
+    .carousel1 {
+        margin-top: -80px !important;
+    }
+    
+    // COLUMNA de 6 iconos: fixture, posiciones etc
+    .columna-iconos {
+        display: none;
+    }
+    
+    // SCROLL 
+    .scroll {
+        overflow-x: scroll;
+        max-height: 400px;
+        // overflow-y: hidden!important;
+    }
+
+    .tarjetas {
+        height: 280px;
+        width: 256px;
+        margin-bottom: 15px;
+        background: #FFFFFF;
+        margin-left: 10px;
+        // overflow-y: hidden!important;
+    }
+    
+    .horizontal-scroll-contenedor {
+        margin-left: 3px;
+        margin-bottom: 25px;
+        overflow-y: hidden!important;
+    }
+
+
+    // Lista de Escudos
+    .escu {
+        width: 6.3rem !important;
+        margin-right: 2rem;
+        margin-bottom: 30px;
+        // margin-bottom: 2rem !important;
+    }
+
+    // Seccion Asociaciones: los dos escudos
+    .escudo1 {
+        align-self: center;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+
+    .escudo2 {
+        text-align: center;
+        align-self: center;
+    }
+
+    .texto-escudo {
+        margin-bottom: 1rem;
+        margin-top: 20px;
+    }
+
+    // FORM
+    .titular-form {
+        font-weight: 600;
+    }
+
+    .btn-form {
+        padding: 0.3rem 0.6rem;
+        font-size: 0.6rem;
+    }
+
+    .footer {
+        margin-bottom: 50px;
+        margin-top: 35px;
+    }
+
+    // columnas footer
+    .columna-img-vivaelfutbol {
+        // display: none;
+        margin-top: -2rem!important;
+        margin: auto;
+        // margin-right: 4rem !important;
+        // margin-bottom: 1.6rem;
+        font-size: 1.1rem;
+    }
+
+    .img-redessociales {
+        margin-left: 1.5rem;
+    }
+
+    .columna-web {
+        display: none;
+    }
+
+    .columna-contacto {
+        // margin: auto;
+        // margin-left: -2rem;
+        margin-top: -2rem;
+        // font-size: 5px !important;
+        margin-left: -7.5rem!important;
+        line-height: 1rem;
+        // order: -1 para cambiar la ubicacion en mobile 
+        order: -1;
+        // margin-top: 2rem;
+        margin-bottom: 5rem;
+    }
+      // titular contacto
+     .contacto-footer {
+         margin-left: 95px;
+     }
+
+    .web-links-contacto {
+        margin-bottom: 20px;
+    }
+
+    // items fila contacto
+    .items-contacto {
+        font-size: 15px!important;
+    }
+
+    // .columna-idioma {
+    //     margin-right: 10rem;
+    //     // margin-bottom: 2rem;
+    //     margin-left: 1rem;
+    //     order: -2;
+    // }
+
+    // .lineadewhatsapp{
+    //     margin-left: 20px;
+    // }
+
+    // columna banderitas footer
+    // .col-idiomas {
+    //     text-align: start;
+    //     margin-left: 1rem;
+    // }
+
+    // whatsapp icon
+    .whats-icon {
+        margin-right: -10px;
+    }
+}

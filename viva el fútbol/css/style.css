@@ -1,0 +1,221 @@
+/* nav ul */
+.items {
+    color: black;
+}
+
+/* span inicial: Bienvenido a viva el futbol*/
+.span-vivaelfutbol {
+    font-size: 0.8rem;
+}
+
+/* span nav */
+.span-nav {
+    font-size: 0.8rem;
+    color: black;
+}
+
+/* heading/seccion inicial */
+.titular-inicial {
+    text-transform: uppercase;
+    /* padding-top: 5rem; */
+}
+
+/* Img datos-individuales*/
+.img-datosindividuales {
+    width: 35rem;
+}
+
+/* TITULARES TARJETAS */
+.btn-primary {
+    border-radius: 20px;
+    padding: 5px 30px;
+}
+
+/* a links torneos desktop */
+.tablinks:hover {
+    color: blue!important;
+    text-decoration: underline!important;
+}
+
+/* Titular Form */
+.login {
+    background: #F7F7F7;
+    /* margin-top: -1rem!important; */
+}
+
+.titular-form {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 30px;
+    margin-top: -2px!important;
+    /* margin-bottom: 1rem; */
+}
+.hablemos {
+    margin-top: -60px!important;
+}
+
+.form-control {
+    height: 3rem;
+}
+
+.color-syloper:hover {
+    color: white;
+}
+
+/* BOTON FORMULARIO */
+.boton-form {
+    width: 10rem;
+    height: 3.5rem;
+}
+
+/* ESCUDOS */
+.escudos {
+    margin-top: -4rem;
+}
+
+/* DOS ESCUDOS: Texto-centrado  */
+.texto-escudo {
+    text-align: center;
+}
+
+/* DOS ESCUDOS */
+.escudo1,
+.escudo2 {
+    text-align: center;
+}
+
+/* SECCION GANA TIEMPO */
+.ganatiempo-cards {
+    margin-bottom: 3rem;
+}
+.h-tarjetas-ganatiempo {
+    margin-top: 20px;
+}
+/* .tarjeta-mobile {
+    margin-left: 50px;
+} */
+.enlace:hover, .enlace:visited {
+    color: blue!important;
+    font-size: 1.35rem!important;
+}     
+
+/* .scroll {
+    overflow-y: scroll;
+    height: 200px;
+} */
+
+.torneos {
+    margin-bottom: 5rem;
+}
+
+/* SCROLL-x mobile */
+.horizontal-scroll-contenedor {
+    text-align: center;
+    max-width: auto;
+    white-space: nowrap;
+    max-height: 300px;
+    overflow-y: none!important;
+    overflow-x: auto;
+}
+
+/* ubica a las tarjetas next to each other */
+.horizontal-scroll-contenedor .tarjetas {
+    background: white;
+    margin: 0 10px 0 0;
+    padding: 0;
+    display: inline-block;
+    overflow-y: none!important;
+}
+
+/* heading form */
+.hablemos {
+    margin-top: -2rem;
+}
+
+/* Headings footer */
+.h-footer {
+    font-weight: 700;
+}
+
+/* Whatsapp */
+.whats-icon {
+    position: fixed;
+    right: 15px;
+    bottom: 10px;
+    width: 4rem;
+}
+
+/* lista de web items en footer */
+.web-links {
+    margin-left: 9.4rem;
+}
+.web-links-contacto {
+    margin-left: 7.8rem;
+}
+
+/* items fila contacto */
+    .items-contacto {
+        font-size: 17px!important;
+    }
+
+/* Quitarle el verde a los inputs y dejar solo los rojos 
+en inputs required */
+.valid-feedback{ 
+    color:inherit !important;
+}
+.valid-feedback:focus { 
+    color:inherit !important;
+}
+.form-control.is-valid, .was-validated .form-control:valid { 
+    border-color:inherit !important;
+                background-image:inherit !important;
+            }
+
+/* .col-idiomas {
+    text-align: start;
+    margin-left: 1rem;
+} */
+
+
+
+/* TABS CAMBIO DE IMAGES EN DESKTOP! */
+      
+/* Style the tab */
+ /* .tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+} */
+
+/* Style the buttons inside the tab */
+/* .tab a {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  */
+  
+  .tab a {
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+} 
+
+/* Change background color of buttons on hover */
+ /* .tab a:hover {
+  text-decoration: grey;
+}  */
+
+/* Create an active/current tablink class */
+.tab a.active {
+  color: blue;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  /* border: 1px solid #ccc; */
+  border-top: none;
+} 

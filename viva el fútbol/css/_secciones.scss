@@ -1,0 +1,22 @@
+.seccion, .footer, .login {
+    padding-top: 5rem;
+    margin: auto;
+    
+    .headings {
+        padding-bottom: 2rem;
+        font-weight: 700;
+        font-size: 3.5rem;
+        margin-top: 60px;
+    }
+
+    .parrafos {
+        padding-bottom: 2rem;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 30px;
+    }
+
+    h5 {
+        font-weight: 300;
+    }
+}

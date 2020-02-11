@@ -1,0 +1,213 @@
+.seccion, .footer, .login {
+  padding-top: 5rem;
+  margin: auto;
+}
+
+.seccion .headings, .footer .headings, .login .headings {
+  padding-bottom: 2rem;
+  font-weight: 700;
+  font-size: 3.5rem;
+  margin-top: 60px;
+}
+
+.seccion .parrafos, .footer .parrafos, .login .parrafos {
+  padding-bottom: 2rem;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.seccion h5, .footer h5, .login h5 {
+  font-weight: 300;
+}
+
+.azul {
+  color: #0070F1;
+}
+
+.span-azul {
+  color: #0070F1;
+}
+
+.iconitos {
+  color: #c2bdbd;
+}
+
+.img-multiplataforma, .img-perfilequipos {
+  width: 60rem;
+}
+
+.img-datosindividuales {
+  width: 45rem;
+}
+
+.img-datosindividuales {
+  width: 45rem;
+}
+
+@media (max-width: 522px) {
+  .barra-sup {
+    display: none;
+  }
+  .img-celu-inicio {
+    width: 17rem !important;
+  }
+  .img-multiplataforma {
+    width: 17rem;
+  }
+  .img-perfilequipos {
+    width: 19rem;
+  }
+  .tarjetas-perfilequipos {
+    display: none;
+  }
+  .img-celu-torneos {
+    display: none;
+  }
+  .img-datosindividuales {
+    display: none;
+  }
+  .googleplay {
+    margin-right: 1rem;
+    height: 2rem !important;
+  }
+  .ios {
+    height: 2rem !important;
+  }
+  .img-vivaelfutbol-footer {
+    margin-right: 1.2rem;
+  }
+  .columna-primer-seccion {
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+  }
+  .titular-inicial {
+    margin-top: 1rem !important;
+  }
+  .headings {
+    padding-bottom: 1.5rem;
+    font-weight: 700 !important;
+    font-size: 2.2rem !important;
+  }
+  .titulo-multiplataforma {
+    font-size: 1.8 !important;
+  }
+  .parrafos {
+    padding-bottom: 2rem;
+    font-size: 1rem !important;
+  }
+  .seccion {
+    padding-top: 2rem !important;
+  }
+  .btn-card {
+    margin-bottom: 5px;
+  }
+  .btn-card1 {
+    margin-top: 10px;
+  }
+  .iconos-torneos {
+    display: none;
+  }
+  .torneos {
+    margin-top: 1rem;
+  }
+  .texto-torneos {
+    text-align: center;
+  }
+  .carousel {
+    width: 17rem;
+    margin: auto;
+  }
+  .carousel-indicators {
+    margin-bottom: -15px;
+    background: lightgrey;
+  }
+  .carousel1 {
+    margin-top: -80px !important;
+  }
+  .columna-iconos {
+    display: none;
+  }
+  .scroll {
+    overflow-x: scroll;
+    max-height: 400px;
+  }
+  .tarjetas {
+    height: 280px;
+    width: 256px;
+    margin-bottom: 15px;
+    background: #FFFFFF;
+    margin-left: 10px;
+  }
+  .horizontal-scroll-contenedor {
+    margin-left: 3px;
+    margin-bottom: 25px;
+    overflow-y: hidden !important;
+  }
+  .escu {
+    width: 6.3rem !important;
+    margin-right: 2rem;
+    margin-bottom: 30px;
+  }
+  .escudo1 {
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  .escudo2 {
+    text-align: center;
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+  }
+  .texto-escudo {
+    margin-bottom: 1rem;
+    margin-top: 20px;
+  }
+  .titular-form {
+    font-weight: 600;
+  }
+  .btn-form {
+    padding: 0.3rem 0.6rem;
+    font-size: 0.6rem;
+  }
+  .footer {
+    margin-bottom: 50px;
+    margin-top: 35px;
+  }
+  .columna-img-vivaelfutbol {
+    margin-top: -2rem !important;
+    margin: auto;
+    font-size: 1.1rem;
+  }
+  .img-redessociales {
+    margin-left: 1.5rem;
+  }
+  .columna-web {
+    display: none;
+  }
+  .columna-contacto {
+    margin-top: -2rem;
+    margin-left: -7.5rem !important;
+    line-height: 1rem;
+    -webkit-box-ordinal-group: 0;
+        -ms-flex-order: -1;
+            order: -1;
+    margin-bottom: 5rem;
+  }
+  .contacto-footer {
+    margin-left: 95px;
+  }
+  .web-links-contacto {
+    margin-bottom: 20px;
+  }
+  .items-contacto {
+    font-size: 15px !important;
+  }
+  .whats-icon {
+    margin-right: -10px;
+  }
+}
+/*# sourceMappingURL=main.css.map */
